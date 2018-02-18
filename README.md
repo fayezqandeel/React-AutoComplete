@@ -12,5 +12,4 @@ npm start
 
 # running using yarn
 yarn install
-
 yarn start
