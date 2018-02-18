@@ -13,5 +13,3 @@ npm start
 # running using yarn
 yarn install
 yarn start
-
-enjoy it on http://localhost:8080/
